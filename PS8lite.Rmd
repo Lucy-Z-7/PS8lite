@@ -226,5 +226,5 @@ write_csv(submission_rf, "submission_rf.csv")
 ```
 
 
-![](images/score_screenshot_naive.png){ width=100% }
+![](images/RF_model_sub_score.png){ width=100% }
 
